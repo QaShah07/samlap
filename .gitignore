@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+# VSCode
+.vscode/
+# Docker
+*.pid
+docker-compose.override.yml
+# env
