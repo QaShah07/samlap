@@ -60,7 +60,7 @@ INSTALLED_APPS = [
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
     # add your deployed domain later
-    "https://your-frontend.vercel.app",
+    "https://samlap-utzq.vercel.app",
 ]
 MIDDLEWARE = [
     'whitenoise.middleware.WhiteNoiseMiddleware',
