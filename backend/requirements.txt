@@ -6,3 +6,4 @@ Pillow
 django-cors-headers
 gspread
 oauth2client
+gunicorn
